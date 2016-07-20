@@ -2,7 +2,7 @@
 // автоматическое обновление приложения на nw.js
 var fs = require('fs');
 var path = require('path');
-var gui = require('nw.gui');
+var gui = window.require('nw.gui');
 var upd, copyPath, execPath, updateInterval;
 
 module.exports = update;
