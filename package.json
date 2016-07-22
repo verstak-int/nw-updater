@@ -2,6 +2,6 @@
   "name": "nw-updater",
   "version": "1.0.0",
   "dependencies": {
-    "node-webkit-updater": "git://github.com/verstak-int/node-webkit-updater.git"
+    "node-webkit-updater": "git://github.com/verstak-int/node-webkit-updater-fork.git"
   }
 }
